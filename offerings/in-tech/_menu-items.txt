@@ -1,4 +1,0 @@
-opus
-dawn
-ai
-iom

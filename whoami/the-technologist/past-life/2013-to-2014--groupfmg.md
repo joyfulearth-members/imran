@@ -1,6 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E0BAQENjRdz6zRKMQ/company-logo_100_100/company-logo_100_100/0/1720638330062/born_group_logo?e=1738800000&v=beta&t=ykydmBEqYzV1rNGA_7dbnJVbjvOKNZ8RBR0Z576mpbI" class="mood-image" />
-
-
 > Sr Tech Lead<br />
 > [BORN Group](https://www.borngroup.com/)<br />
 > Sep 2013 - Jun 2014 · 10 mos<br />

@@ -1,6 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/C510BAQEra-gM3uZFbw/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630612699534/sulekhacom_logo?e=1738800000&v=beta&t=EVLhd51FbBCY6InxM5Nu8QxUGG1lcNjuUM62KXKhX9s" class="mood-image" />
-
-
 > Senior Technical Architect<br />
 > Sulekha - Full-time<br />
 > Apr 2021 - Jun 2022 - 1 yr 3 mos<br />

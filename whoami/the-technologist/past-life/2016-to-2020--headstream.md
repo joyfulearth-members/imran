@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/C4E0BAQHLS1l4gbx3oQ/company-logo_100_100/company-logo_100_100/0/1631338771368?e=1738800000&v=beta&t=rjembimRvSv2OU7zxGSc9YPnVxsZEI8QG8PzjZV51Bw" class="mood-image" />
-
 > Senior Tech Lead<br />
 > Headstream Technologies<br />
 > Aug 2016 - Feb 2019 - 2 yrs 7 mos<br />
